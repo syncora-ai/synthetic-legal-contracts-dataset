@@ -16,7 +16,7 @@ This **free dataset** captures the style and structure of legal exchanges withou
   [**Download Dataset**](https://github.com/syncora-ai/synthetic-legal-contracts-dataset/blob/main/legal-contract.jsonl)  
 
 - **Jupyter Notebook** – Demonstrates fine-tuning and exploration.  
-  [**Open Notebook**](https://github.com/syncora-ai/synthetic-legal-contracts-dataset/blob/main/Legal_contract__dataset_Fine_Tunning%20(1).ipynb)  
+  [**Open Notebook**](https://github.com/syncora-ai/synthetic-legal-contracts-dataset/blob/main/Legal_contract__dataset_Fine_Tunning%20(1)%20(1)_clean%20(1).ipynb)  
 
 
 ## Dataset Context & Features  
